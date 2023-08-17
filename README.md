@@ -20,3 +20,5 @@ Hello, I am Nathaniel and I am a first-year Masters student in Biology. When I a
 Hello, my name is Harrison and I am a 3rd year undergraduate in Biology/Physics. In my freetime I like to write and read.
 
 This is Andre and this is my fifth attempt at this. smh
+
+Hello, my name is Evita (Vee), I am 2nd year Biotech student. I love cats, breaking bread with fun peeps, and enjoy joking and laughing with friends. 
