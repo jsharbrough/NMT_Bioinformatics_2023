@@ -17,4 +17,4 @@ Hello, my name is Shimaa, and I like music.
 
 Hello, I am Nathaniel and I am a first-year Masters student in Biology. When I am able to, I play upright bass or piano.
 
-Hello, my name is Evita (Vee). I am 2nd year Biotech student. I love cats. 
+Hello, my name is Evita (Vee), I am 2nd year Biotech student. I love cats, breaking bread with fun peeps, and enjoy joking and laughing with friends. 
