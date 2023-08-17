@@ -22,3 +22,5 @@ Hello, my name is Harrison and I am a 3rd year undergraduate in Biology/Physics.
 This is Andre and this is my fifth attempt at this. smh
 
 Hello, my name is Evita (Vee), I am 2nd year Biotech student. I love cats, breaking bread with fun peeps, and enjoy joking and laughing with friends. 
+
+Hi, I'm Olivia, and this is my last year in the BMS program. I like to take my dog to play fetch.
