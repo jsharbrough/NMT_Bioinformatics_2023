@@ -1,0 +1,5 @@
+>Forward Primer
+GCC CAG CGA CTA CCT CGG
+
+>Reverse Primer
+CGA AGG CGC GGC GCT CTG
