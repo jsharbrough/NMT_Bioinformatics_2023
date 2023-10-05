@@ -8,4 +8,4 @@
 #SBATCH --error=sra.err
 #SBATCH --output=sra.out
 
-wget 
+wget https://github.com/jsharbrough/NMT_Bioinformatics_2023/blob/main/Activites/wget/foo.tar.gz
