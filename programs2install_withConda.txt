@@ -1,0 +1,28 @@
+program	channel
+bam2fastx	bioconda
+bwa	bioconda
+clipkit	bioconda
+cutadapt	bioconda
+fastqc	bioconda
+flye	bioconda
+gatk4	bioconda
+gblocks	bioconda
+hifiasm	bioconda
+hisat2	bioconda
+jModelTest2	bioconda
+mafft	bioconda
+miniasm	bioconda
+minimap2	bioconda
+miniprot	bioconda
+mosdepth	bioconda
+numpy
+paml	bioconda
+pbbam	bioconda
+pilon	bioconda
+pip
+pysam	bioconda
+raxml	bioconda
+rclone	conda-forge
+"samtools>=1.10"	bioconda
+seqtk	bioconda
+trimmomatic	bioconda
