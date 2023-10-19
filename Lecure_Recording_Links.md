@@ -6,3 +6,14 @@
 [8/31/23](https://zoom.us/rec/share/lbVxffU_IG8_5ovbxgWZ7snV32v6N2nBurbsuUI3HMKfe1L1O3ryDBetxTFoLHzy.-w7Dje98OufyuYV0) – Multiple Sequence Alignment\
 [9/5/23](https://zoom.us/rec/share/tssEvHnDwFM5tBTvodIogIYmCdBmoyTAmsfqd06PW9-H_JzZDr2uEKMBTh8E5q0t.832KjBGCAwzjf_rA) – Gene Finding I\
 [9/7/23](https://zoom.us/rec/share/i373l1nqNsyS0nTk-wLFR7h4WPjkcQKq78ucZIpFbZoHKTAO7yLyDkoEd0TCUDq1.6jEqoIKjplFRjbF4) – Gene Finding II\
+[9/12/23](https://nmt-edu.zoom.us/rec/share/c4uaqCwXAlO7itTznvvRGGn_xgdWmy_HRa25FXUzmKjXSk7DbCI71DmdHbttcUN6.rqM-zPe6R-_FeVqq) – Primer Design\
+[9/14/23](https://nmt-edu.zoom.us/rec/share/AUV3JctlcvSAI-mNA43IycjTVcmbZ_7WkfPAFAO29fqV01NLymu1LG9CaMKSzjmZ.oiwVpl4DbbxvO1lI) – Mutations & Substitutions\
+[9/19/23](https://nmt-edu.zoom.us/rec/share/N305j-W7ksKl5mPYj0Q1qPLkKTQniSDkcp6MrUm3--H1ptPHqQdwqkjTFh_Q4dpq.E3BptLzHFU6SS3Jz) – Population Genetics I\
+[9/21/23](https://nmt-edu.zoom.us/rec/share/9RLibLyrjXCU4ogRxJNEp_3PDXt6KbnvAHGd-CYbnTkervqICrnqz1rDC7Vs446G.pbnNMpnma_XcqUp6) – Population Genetics II\
+[9/26/23](https://nmt-edu.zoom.us/rec/share/CPF6yBky8HtbV4qoj4mE4PLXjPQ6s9OSIIHQYARQdW0mZSNrJoXo2fkOPucPhnGZ.a-qv2K-oKP6vIeQi) – Genetic Mapping\
+[9/28/23](https://nmt-edu.zoom.us/rec/share/0aZg-4k-jVcyfx8A1DPibQk0qCyFYemdIUAC-cXj0_5hzhI8aZU4dcbk5BesNInM.gDsHwZbV8DYi6dxd) – Phylogenetics\
+[10/3/23](https://nmt-edu.zoom.us/rec/share/nD1oi3f14XkYL8EhaIEB9z5T7IjCukv99Fei4Tr3suAQ-hjxu1XVR5gt7hmf51dD.GvSe_JU9bof7ZF8F) – Phylogenetic Methods\
+[10/5/23](https://nmt-edu.zoom.us/rec/share/Ky7XtpuFT-h1CjLJgfKBYz_2-xabG-c8cFy-DEg3wlbvJdsp2VJIlDbl2qojAuPO.ucZM2F2oeqou64lx) – Data management & Bioinformatic Databases\
+[10/12/23](https://nmt-edu.zoom.us/rec/share/5LHgMuZNCzCWaozqra7ph-S_5x0PZA9fHr4a61jC7e3bQNpfWNjqLqIkMWBz_IF9.cUyIwKpjKssED6Dz) – Intro to the HPC\
+[10/17/23](https://nmt-edu.zoom.us/rec/share/C18DZ10QRkuMPTvErlFSnmY8Mvs3HYivHy1Pu8BYFLQX__dT749i0bwudyHJoL2t.8DHyuvqonChrYvki) – Short-read Alignment\
+[10/19/23]() – Variant Calling\
