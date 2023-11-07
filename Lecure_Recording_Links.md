@@ -16,4 +16,10 @@
 [10/5/23](https://nmt-edu.zoom.us/rec/share/Ky7XtpuFT-h1CjLJgfKBYz_2-xabG-c8cFy-DEg3wlbvJdsp2VJIlDbl2qojAuPO.ucZM2F2oeqou64lx) – Data management & Bioinformatic Databases\
 [10/12/23](https://nmt-edu.zoom.us/rec/share/5LHgMuZNCzCWaozqra7ph-S_5x0PZA9fHr4a61jC7e3bQNpfWNjqLqIkMWBz_IF9.cUyIwKpjKssED6Dz) – Intro to the HPC\
 [10/17/23](https://nmt-edu.zoom.us/rec/share/C18DZ10QRkuMPTvErlFSnmY8Mvs3HYivHy1Pu8BYFLQX__dT749i0bwudyHJoL2t.8DHyuvqonChrYvki) – Short-read Alignment\
-[10/19/23]() – Variant Calling\
+[10/19/23](https://nmt-edu.zoom.us/rec/share/gJjwVRB3kGLN0fdQx7fzShKQbV30S-XBDtM2flB9Yducelc-Zqsgya5ZJMqnxdPt.eOkTFJ_khyCroRJI) – Variant Calling\
+[10/24/23](https://nmt-edu.zoom.us/rec/share/zL0UoJnwXRrFR4gElb3s3cSKoTym1-BIq9KvSVNIe3HyOxHXW36gyR7zx3UlWnef.GFgb62AvG62oAsZy) – Setting Up HPC/Conda/Rclone\
+[10/26/23](https://nmt-edu.zoom.us/rec/share/Q91KqWDBCYpf_lExxkKpM7uK1beGCu-VLxv5ssiBexV09MrSMq3ZcoCqIrG76GNu.WRqneDNRb7o4I4n) – Project Description\
+[10/31/23](https://nmt-edu.zoom.us/rec/share/K16AaLRLCtgYoLHk2w8lHpAh7GeG6OkqipZH6K_eoJa3rHjXJXXyRpBNzZI2TQto.iEaN61-DRNRitWvU) – Genome/Transcriptome Assembly\
+[11/2/23](https://nmt-edu.zoom.us/rec/share/6coQlTB2WIpzfplPvLPS-k7k-jXJ2SYH2GNU8J2ToUnkyVI8a-XAlcG17Onzk_M7.JRYhelzhvu9HiNqu) – Building Mapping Job\
+[11/5/23]() – RNA Sequencing\
+[11/7/23]() – Variant Calling Job
